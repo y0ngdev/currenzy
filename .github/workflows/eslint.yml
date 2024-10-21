@@ -14,7 +14,7 @@ on:
     # - cron: '25 2 * * 4'
 
 jobs:
-  Run lint checks:
+  Run_lint_checks:
     name: Run eslint and prettier
     
     runs-on: ${{ matrix.os }}
