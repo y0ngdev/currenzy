@@ -5,7 +5,7 @@ import animate from 'tailwindcss-animate'
 module.exports = {
   darkMode: ["class"],
   safelist: ["dark"],
-  prefix: "cz",
+  prefix: "cz-",
 
   content: [
     './pages/**/*.{ts,tsx,vue}',

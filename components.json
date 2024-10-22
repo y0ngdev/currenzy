@@ -8,7 +8,7 @@
     "css": "src/assets/css/main.css",
     "baseColor": "neutral",
     "cssVariables": true,
-    "prefix": "cz"
+    "prefix": "cz-"
   },
   "framework": "vite",
   "aliases": {
